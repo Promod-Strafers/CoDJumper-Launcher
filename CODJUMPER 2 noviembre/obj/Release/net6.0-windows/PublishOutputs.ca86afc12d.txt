@@ -1,0 +1,5 @@
+C:\Users\scaN\Desktop\CoD Jumper Launcher\CoDJumper Launcher.exe
+C:\Users\scaN\Desktop\CoD Jumper Launcher\CoDJumper Launcher.dll
+C:\Users\scaN\Desktop\CoD Jumper Launcher\CoDJumper Launcher.deps.json
+C:\Users\scaN\Desktop\CoD Jumper Launcher\CoDJumper Launcher.runtimeconfig.json
+C:\Users\scaN\Desktop\CoD Jumper Launcher\CoDJumper Launcher.pdb

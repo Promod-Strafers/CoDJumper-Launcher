@@ -1,0 +1,5 @@
+C:\Users\scaN\Desktop\CJ Launcher Final\CoDJumper Launcher.exe
+C:\Users\scaN\Desktop\CJ Launcher Final\CoDJumper Launcher.dll
+C:\Users\scaN\Desktop\CJ Launcher Final\CoDJumper Launcher.deps.json
+C:\Users\scaN\Desktop\CJ Launcher Final\CoDJumper Launcher.runtimeconfig.json
+C:\Users\scaN\Desktop\CJ Launcher Final\CoDJumper Launcher.pdb

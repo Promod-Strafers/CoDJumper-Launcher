@@ -1,0 +1,101 @@
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CoDJumper Launcher.csproj.AssemblyReference.cache
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start10info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start11info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start12info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start1info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start2info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start3info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start4info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start5info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start6info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start7info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start8info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c1start9info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start10info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start11info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start12info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start1info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start2info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start3info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start4info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start5info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start6info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start7info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start8info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c2start9info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start10info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start11info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start12info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start1info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start2info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start3info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start4info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start5info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start6info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start7info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start8info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c3start9info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start10info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start11info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start12info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start1info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start2info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start3info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start4info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start5info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start6info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start7info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start8info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c4start9info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start10info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start11info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start12info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start1info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start2info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start3info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start4info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start5info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start6info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start7info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start8info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.c5start9info.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.Custom2.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.Custom3.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.Custom4.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.Custom5.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.Customs1.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.FormMain.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.FormCoDJumper.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.FormDefault.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.FormInfo.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.FormPromod.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.FormSettings.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.FormSettingsInfoCoDJumper.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.FormSettingsInfoDefault.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.FormSettingsInfoPromod.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustom3.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustom3pt2.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustom4.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustom4pt2.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustom5.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustom5pt2.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustoms1.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustoms1pt2.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustoms2.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.SettingsCustoms2pt2.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CoDJumper Launcher.csproj.GenerateResource.cache
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CoDJumper Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CoDJumper Launcher.AssemblyInfoInputs.cache
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CoDJumper Launcher.AssemblyInfo.cs
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CoDJumper Launcher.csproj.CoreCompileInputs.cache
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CoDJumper Launcher.genruntimeconfig.cache
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\bin\Release\net6.0-windows\CoDJumper Launcher.exe
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\bin\Release\net6.0-windows\CoDJumper Launcher.deps.json
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\bin\Release\net6.0-windows\CoDJumper Launcher.runtimeconfig.json
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\bin\Release\net6.0-windows\CoDJumper Launcher.dll
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\bin\Release\net6.0-windows\CoDJumper Launcher.pdb
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CODJUMPER_2_noviembre.Properties.Resources.resources
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CoDJumper Launcher.dll
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\refint\CoDJumper Launcher.dll
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\CoDJumper Launcher.pdb
+C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\obj\Release\net6.0-windows\ref\CoDJumper Launcher.dll

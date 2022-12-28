@@ -1,0 +1,5 @@
+C:\Users\scaN\Desktop\CJ Laucher Publicado\CODJUMPER 2 noviembre.exe
+C:\Users\scaN\Desktop\CJ Laucher Publicado\CODJUMPER 2 noviembre.dll
+C:\Users\scaN\Desktop\CJ Laucher Publicado\CODJUMPER 2 noviembre.deps.json
+C:\Users\scaN\Desktop\CJ Laucher Publicado\CODJUMPER 2 noviembre.runtimeconfig.json
+C:\Users\scaN\Desktop\CJ Laucher Publicado\CODJUMPER 2 noviembre.pdb

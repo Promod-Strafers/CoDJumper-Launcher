@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\scaN\source\repos\CODJUMPER 2 noviembre\CODJUMPER 2 noviembre\Properties\PublishProfiles\FolderProfile8.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="c1start10info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start11info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start12info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start1info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start2info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start3info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start4info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start5info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start6info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start7info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start8info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c1start9info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start10info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start11info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start12info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start1info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start2info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start3info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start4info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start5info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start6info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start7info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start8info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c2start9info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start10info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start11info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start12info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start1info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start2info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start3info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start4info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start5info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start6info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start7info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start8info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c3start9info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start10info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start11info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start12info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start1info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start2info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start3info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start4info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start5info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start6info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start7info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start8info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c4start9info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start10info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start11info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start12info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start1info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start2info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start3info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start4info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start5info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start6info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start7info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start8info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="c5start9info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custom2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custom3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custom4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Custom5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customs1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCoDJumper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDefault.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPromod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSettingsInfoCoDJumper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSettingsInfoDefault.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSettingsInfoPromod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustom3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustom3pt2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustom4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustom4pt2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustom5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustom5pt2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustoms1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustoms1pt2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustoms2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsCustoms2pt2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

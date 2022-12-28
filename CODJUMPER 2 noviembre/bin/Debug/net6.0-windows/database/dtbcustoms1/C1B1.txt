@@ -1,0 +1,6 @@
++devmap 
+enabled
++exec codjumper.cfg 
+codjumper
+mp_backlot
+backlot
